@@ -7635,6 +7635,7 @@ button.bg-dark:focus {
   margin-bottom: 3rem !important;
 }
 
+
 .ml-5,
 .mx-5 {
   margin-left: 3rem !important;
@@ -9799,7 +9800,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #29292a  !important;
+  color: #67146b  !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10002,7 +10003,7 @@ h3 {
 }
 body {
   padding-top: 3.375rem;
-  color: #6c757d;
+  color: #000000f0;
 }
 
 @media (min-width: 992px) {
